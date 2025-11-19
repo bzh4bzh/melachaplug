@@ -28,6 +28,8 @@ The solution is here!
 
 ### What You'll Need
 -   A plug with ESPHome or Tasmota software installed.
+-   *Update!* [Cloud Free](https://cloudfree.shop/) shop now is selling preflashed plugs direcly [HERE](https://cloudfree.shop/product/melacha-plug/)
+    * Disclaimer: I don't make any money on your purchase, the folks at cloudfree were kind enough to have a run at selling it to benefit the jewish customers.
 -   Pre-flashed plugs can be bought from the [Athom](https://www.athom.tech/) or [Cloud Free](https://cloudfree.shop/) shop. There is also some preflashed plugs to be found on [Ebay](https://www.ebay.com/sch/i.html?_nkw=preflashed+smart+plug), and [Amazon](https://www.amazon.com/s?k=KAUF+Esphome).
 
 ## Installation
