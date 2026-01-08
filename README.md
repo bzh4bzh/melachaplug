@@ -63,6 +63,7 @@ Shabbos from this project can be reused to be helpful in all types of projects.
 
 ### Potential Use Cases
 -   Disable Google Home or Alexa for Shabbos.
+-   Disable a smart doorbell.
 -   Disable an electric bidet.
 -   Disable an electric faucet.
 -   Disable a dishwasher so it won't accidentally get turned on.
