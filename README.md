@@ -62,12 +62,15 @@ You can customize this project for any sort of relays, including the sonoff basi
 Shabbos from this project can be reused to be helpful in all types of projects.
 
 ### Potential Use Cases
+-   Disable Google Home or Alexa for Shabbos.
+-   Disable an electric bidet.
+-   Disable an electric faucet.
+-   Disable a dishwasher so it won't accidentally get turned on.
 -   Those with motion based lights, can have the motion disabled on Shabbos and Yom Tov.
 -   Preserve energy usage during Shabbos and Yom Tov, for example of water heaters (temperature should be kept above °120F to prevent [Legionnaires’ disease](https://www.cdc.gov/legionella/wmp/control-toolkit/potable-water-systems.html)).
 -   Turn off security cameras.
 -   Disable accidental light switch triggers on Shabbos and Yom Tov (advanced).
 -   Turn on a hot water urn before Shabbos and have it auto turn off after.
--   Disable a dishwasher so it won't accidentally get turned on.
 
 
 ## Contribute 
