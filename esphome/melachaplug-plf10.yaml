@@ -49,7 +49,7 @@ packages:
   # optional_config:     !include plugins/melachaplug/optional_config.yaml    # Optional
 
   remote_package:
-    url: https://github.com/chabad-source/melachaplug/
+    url: https://github.com/bzh4bzh/melachaplug/
     ref: main                                                               # optional
     files: 
       - esphome/plugins/melachaplug/melacha_config.yaml                     # Required
